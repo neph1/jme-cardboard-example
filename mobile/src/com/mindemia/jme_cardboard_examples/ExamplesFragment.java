@@ -14,6 +14,6 @@ public class ExamplesFragment extends CardboardHarnessFragment{
     
     
     public ExamplesFragment(){
-        appClass = "jme3test.TestJaime";
+        appClass = "jme3test.CardboardStarTravel";
     }
 }
